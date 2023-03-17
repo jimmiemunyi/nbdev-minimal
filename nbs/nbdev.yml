@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-minimal"
+  site-url: "https://jimmiemunyi.github.io/nbdev-minimal"
+  description: "Testing Purposes"
+  repo-branch: main
+  repo-url: "https://github.com/jimmiemunyi/nbdev-minimal"
